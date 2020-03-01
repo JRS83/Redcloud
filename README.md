@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/khast3x/Redcloud) 
+
 <p align="center">
   <img src="https://i.postimg.cc/Dyfz8Q1p/Redcloud-Logo.png" width="540" title="Redcloud menu">
 </p>
